@@ -1,1 +1,1 @@
-Practical work №1 on WEB-design.
+Practical work №2 on WEB-design.
